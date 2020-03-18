@@ -1,0 +1,4 @@
+
+stage("Deploy"){
+//deploy stage
+}
